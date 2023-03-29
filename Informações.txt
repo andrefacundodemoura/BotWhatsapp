@@ -1,0 +1,15 @@
+    ATENÇÃO
+
+    *Para que tudo funcione você deverá:
+
+    *Ter o python instalado com a versão acima da 3.9
+
+    *ter baixado as bibliotecas necessarias
+
+    *Estar com o whatsapp aberto no seu navegador
+
+    *Ter cadastrado os clientes com nome e numero
+	No arquivo Python "cadastroclientes"
+    O numero de telefone deve ser colocado nesse formato: 11988998899 (O DDD acompanhado do numero sem espaço e sem outros caracteres)
+    
+   
